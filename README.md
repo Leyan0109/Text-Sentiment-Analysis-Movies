@@ -38,10 +38,10 @@ With the rise of online platforms, user-generated movie reviews offer valuable i
 
 ## 📁 Repository Structure
 `movie-review-sentiment-analysis/`
-📁 data/ # Raw review dataset
-📁 notebooks/ # Model development (CNN, BiLSTM)
-📁 results/ # Evaluation metrics, plots, confusion matrices
-📄 README.md # Project overview
+1. data/ # Raw review dataset
+2. notebooks/ # Model development (CNN, BiLSTM)
+3. results/ # Evaluation metrics, plots, confusion matrices
+4. README.md # Project overview
 
 ---
 
